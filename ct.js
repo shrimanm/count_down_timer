@@ -1,4 +1,4 @@
-const birthdate = "14 apr 2022";
+const birthdate = "31 may 2024";
 
 const dayss = document.getElementById("days");
 const hourss = document.getElementById("hours");
